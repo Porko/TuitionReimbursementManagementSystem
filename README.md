@@ -1,0 +1,2 @@
+# TuitionReimbursementManagementSystem
+Project Description - The Tuition Reimbursement Management System is used for tracking, approving, and dispersing reimbursements for continued education. An employee can apply for an educational course, which their direct supervisor, department head, and benefits coordinator must approve. After the employee has completed the course, the reimbursement is updated with the employee's final grade and/or relevant material before the reimbursement is dispersed.
